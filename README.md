@@ -7,7 +7,6 @@
 📫 Comment me contacter ...
 
 Consultez mon portfolio :
-
 https://portfolio-adnanehaddouti.netlify.app/
 
 
