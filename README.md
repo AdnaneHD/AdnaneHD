@@ -1,8 +1,4 @@
-👋 Salut, je suis @AdnaneHD...
-
-👀 Je m'intéresse à ...
-
-🌱 Je suis actuellement en train d'apprendre ...
+👋 Salut, je suis @AdnaneHaddouti 
 
 📫 Comment me contacter sur [(https://www.linkedin.com/in/adnane-haddouti/)]
 
