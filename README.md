@@ -1,8 +1,5 @@
 👋 Salut, je suis @AdnaneHaddouti 
 
-
-
-
 📫 Comment me contacter sur [(https://www.linkedin.com/in/adnane-haddouti/)]
 
 Consultez mon portfolio : [(https://www.adnanehaddouti.engineer/)]
