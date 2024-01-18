@@ -4,5 +4,7 @@
 
 Consultez mon portfolio : [(https://www.adnanehaddouti.engineer/)]
 
-<!-------- AdnaneHD/AdnaneHD is a ✨ special ✨ repository because its `README.md` appears
+
+
+<!-------- ✨ special ✨ repository because its `README.md` appears
 on your GitHub profile. You can click the Preview link to take a look at your changes.----->
